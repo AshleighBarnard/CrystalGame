@@ -1,0 +1,32 @@
+header {
+  border: 2px solid black;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+  color: white;
+  background: lightblue;
+
+
+}
+
+.card  {
+  text-align: center;
+}
+
+.inside {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+.thumbnail img {
+  height:250px;
+  width:100%;
+}
+
+#total {
+  font-size: 40px;
+  font-family: fantasy;
+  border: 2px double;
+
+}
+
